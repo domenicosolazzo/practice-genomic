@@ -15,9 +15,14 @@
    - C (cytosine)
    - G (guanine)
 - DNA code spells out the exact order of a protein's building blocks, amino acids.
-- Long strings of nucleotides form genes
+- DNA consists of two long, twisted chains made up of nucleotides. 
+    - Each nucleotide contains one base, one phosphate molecule and the sugar molecule deoxyribose. 
+    - The bases in DNA nucleotides are adenine, thymine, cytosine and guanine.
+- Long strings of nucleotides form genes.
 - Groups of genes are packaged tightly into structures called chromosomes. 
 - Every cell in your body contains a full set of chromosomes in its nucleus except for eggs, sperm and red blood cells.
+
+### Mutation
 - An error in the gene's DNA sequence is called **mutation**
 - A mutation can cause a gene to encode a protein that works incorrectly or that doesn't work at all. Sometimes, the error means that no protein is made.
 - Not all DNA changes are harmful. 
