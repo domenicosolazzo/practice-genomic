@@ -16,3 +16,10 @@
    - G (guanine)
 - DNA code spells out the exact order of a protein's building blocks, amino acids.
 - An error in the gene's DNA sequence is called **mutation**
+- A mutation can cause a gene to encode a protein that works incorrectly or that doesn't work at all. Sometimes, the error means that no protein is made.
+- Not all DNA changes are harmful. 
+- Some mutations have no effect, and others produce new versions of proteins that may give a survival advantage to the organisms that have them. 
+
+
+#### Source
+- [How Genes Work](http://goo.gl/cqXsz2)
