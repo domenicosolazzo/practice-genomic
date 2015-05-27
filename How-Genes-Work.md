@@ -15,3 +15,4 @@
    - C (cytosine)
    - G (guanine)
 - DNA code spells out the exact order of a protein's building blocks, amino acids.
+- An error in the gene's DNA sequence is called **mutation**
