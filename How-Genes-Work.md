@@ -31,6 +31,19 @@
 - Not all DNA changes are harmful. 
 - Some mutations have no effect, and others produce new versions of proteins that may give a survival advantage to the organisms that have them. 
 
+#### Copycat
+- A cell must reproduce.
+- Cell must copy the DNA before dividing in two almost identical cells.
+- The twisted double helix of the DNA must unwind and create two separate strand.
+- Each strand becomes a pattern for a new strand.
+- The new DNA will have one new strand and one old strand.
+- This copy is done by a cellular proteine machine called **DNA polymerase**.
+- It reads the DNA strand and stiches a new complementary one.
+- This process is called **replication**.
+- The process is fast and accurate but sometimes errors can happen. Most of them are fixed immediately.
+- Not correct errors can lead to disease, such cancer.
+
+![DNA Replication](http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/508px-DNA_replication_split.svg.png)
 
 #### Source
 - [How Genes Work](http://goo.gl/cqXsz2)
