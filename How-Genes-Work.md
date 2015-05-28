@@ -53,7 +53,7 @@
 - A haploid egg cell will combine with a haploid sperm cell to form a diploid cell with the right number of chromosomes (46).
 - Chromosomes are numbered from 1 to 22, where 1 is the largest chromosome.
 - The 23rd pair, known as the **sex chromosomes**, are called **X** and **Y**.
-- Abnormalities of chromosome number usually occur during **meiosis*, the time when a cell reduces its chromosomes from diploid to haploid in creating eggs or sperm.
+- Abnormalities of chromosome number usually occur during **meiosis**, the time when a cell reduces its chromosomes from diploid to haploid in creating eggs or sperm.
 - Mistakes in dividing DNA between daughter cells during meiosis are the leading cause of human birth defects and miscarriages.
 - In women, the likelihood that chromosomes won't be apportioned properly increases with age.
 - **Trisomy**, the hallmark of Down syndrome, results when a baby is born with three copies of chromosome 21 instead of the usual two.
