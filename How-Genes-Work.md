@@ -45,5 +45,22 @@
 
 ![DNA Replication](http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/508px-DNA_replication_split.svg.png)
 
+#### Meiosis
+- After copying the DNA, cell needs to find enough genetic materials for the two offspring.
+- Most cells are called **diploid** because they have two sets of chromosomes (23 pairs).
+- Eggs and sperm are known as **haploid**
+- Each haploid has only one set of chromosomes.
+- A haploid egg cell will combine with a haploid sperm cell to form a diploid cell with the right number of chromosomes (46).
+- Chromosomes are numbered from 1 to 22, where 1 is the largest chromosome.
+- The 23rd pair, known as the **sex chromosomes**, are called **X** and **Y**.
+- Abnormalities of chromosome number usually occur during **meiosis*, the time when a cell reduces its chromosomes from diploid to haploid in creating eggs or sperm.
+- Mistakes in dividing DNA between daughter cells during meiosis are the leading cause of human birth defects and miscarriages.
+- In women, the likelihood that chromosomes won't be apportioned properly increases with age.
+- **Trisomy**, the hallmark of Down syndrome, results when a baby is born with three copies of chromosome 21 instead of the usual two.
+- In healthy cells, gluelike protein complexes called **cohesins** release pairs of chromosomes at exactly the right time. This allows the chromosomes to separate properly.
+
+![Meiosis](https://biologypost.files.wordpress.com/2013/01/meiosis.jpg)
+
+
 #### Source
 - [How Genes Work](http://goo.gl/cqXsz2)
