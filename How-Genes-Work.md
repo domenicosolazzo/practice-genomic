@@ -61,6 +61,16 @@
 
 ![Meiosis](https://biologypost.files.wordpress.com/2013/01/meiosis.jpg)
 
+#### Transcription
+- There two main steps to make proteins.
+- First one is called **transcription**: the information coded in DNA is transferred to RNA
+- The RNA nucleotides are complementary to those of DNA.
+- The only difference is that the RNA nucloutide pairs uracil(U), instead of T, with A.
+- A proteine machine called **RNA polymerase** reads the DNA and make the RNA copy, called **mRNA**.
+- mRNA transports the gene's message to the protein-producing machinery
+- RNA polymerase gets help from helper proteins, 'expressing' only particular genes.
+- On ribosome, **tRNA** (transfer RNA) helps to convert mRNA to proteins.
+- Amino acids links together to create proteins.
 
 #### Source
 - [How Genes Work](http://goo.gl/cqXsz2)
