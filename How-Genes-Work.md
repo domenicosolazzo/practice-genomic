@@ -81,12 +81,20 @@
 - Some of this DNA is stuck right in the middle of genes.
 - We have two types of DNA:
   - **exons**: A DNA sequence in a gene that codes for a gene product.
-  - **intron**: A DNA sequencethat interrupts the sequences coding for an exon.
+  - **introns**: A DNA sequencethat interrupts the sequences coding for an exon.
 - The cell needs to trim out the intron sections and then stitch only the exon pieces together
 - In this way, we will get the mRNA molecule that yields a working protein.
 - This is called **RNA splicing**.
 - Splicing has to be extremely accurate. 
 - An error in the splicing process will throw the whole sequence out of alignment. The result is usually an abnormal protein or no protein at all. 
+- Introns are important part of splicing.
+- Without them, a cell would not need the splicing process and keep monitoring it to be sure it's working right.
+- Splicing make it possible to create multiple proteins.
+- By cutting and pasting the exons in different patterns is called **alternative splicing**.
+- A cell can create different proteins from a single gene. 
+- Alternative splicing is one of the reasons why human cells, which have about 20,000 genes, can make hundreds of thousands of different proteins.
+
+![RNA splicing](http://upload.wikimedia.org/wikipedia/commons/0/0a/DNA_alternative_splicing.gif)
  
 
 #### Source
