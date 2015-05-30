@@ -72,5 +72,22 @@
 - On ribosome, **tRNA** (transfer RNA) helps to convert mRNA to proteins.
 - Amino acids links together to create proteins.
 
+#### RNA splicing
+- Several types of RNA play key roles in making a protein:
+  - The gene transcript (the mRNA) transfers information from DNA in the nucleus to the ribosomes that make protein.
+  - Ribosomal RNA. 
+  - Transfer RNA carries amino acids to the ribosomes.
+- The genetic material of humans and other eukaryotes includes a lot of DNA that doesn't encode proteins
+- Some of this DNA is stuck right in the middle of genes.
+- We have two types of DNA:
+  - **exons**: A DNA sequence in a gene that codes for a gene product.
+  - **intron**: A DNA sequencethat interrupts the sequences coding for an exon.
+- The cell needs to trim out the intron sections and then stitch only the exon pieces together
+- In this way, we will get the mRNA molecule that yields a working protein.
+- This is called **RNA splicing**.
+- Splicing has to be extremely accurate. 
+- An error in the splicing process will throw the whole sequence out of alignment. The result is usually an abnormal protein or no protein at all. 
+ 
+
 #### Source
 - [How Genes Work](http://goo.gl/cqXsz2)
