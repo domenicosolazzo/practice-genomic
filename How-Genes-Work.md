@@ -96,6 +96,14 @@
 
 ![RNA splicing](http://upload.wikimedia.org/wikipedia/commons/0/0a/DNA_alternative_splicing.gif)
  
+#### Translation
+- The next step is reading the RNA information and fitting the building blocks of a protein together. 
+- This is called **translation**, and its principal actors are the ribosome and amino acids.
+- The messenger RNA threads through the ribosome protein machine.
+- The ribosome reads the mRNA sequence and helps recognize and recruit the correct amino acid-carrying transfer RNA to match the mRNA code. 
+- The ribosome also links each additional amino acid into a growing protein chain.
+
+
 
 #### Source
 - [How Genes Work](http://goo.gl/cqXsz2)
