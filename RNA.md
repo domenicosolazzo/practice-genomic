@@ -30,6 +30,7 @@
 - Medical researchers are currently testing new types of RNAi-based drugs for treating conditions such as macular degeneration, the leading cause of blindness, and various infections, including those caused by HIV and the herpes virus.
 
 ![RNAi](http://publications.nigms.nih.gov/thenewgenetics/images/ch2_rnai.jpg "RNAi")
+
 Credit: [NIH - National Institute of General Medical Sciences](http://publications.nigms.nih.gov/thenewgenetics/chapter2.html)
 
 
