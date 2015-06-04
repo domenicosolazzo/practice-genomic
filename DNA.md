@@ -16,4 +16,21 @@
 - Epigenetic means, literally, "upon" or "over" genetics. 
 - It describes a type of chemical reaction that can alter the physical properties of DNA without changing its sequence. 
 - These changes make genes either more or less likely to be expressed.
+
+#### Chromatin
+- DNA is spooled up compactly inside cells in an arrangement called **chromatin**. 
+- Chromatin consists of long strings of DNA spooled around a compact assembly of proteins called **histones**.
+- The key function of chromatin is to control access to genes, since not all genes are turned on at the same time.
+- Improper expression of growth-promoting genes can lead to: 
+   - cancer
+   - birth defects
+   - other health concerns
+- Histones have special chemical tags that act like switches to control access to the DNA.
+- These switches are called **epigenetic markings**.
+- They unwind the spooled DNA so the genes can be transcribed.
+- A cell's gene-reading machinery tracks epigenetic markings.
+- This hypothesis has been called **histone code**.
+- It could play a major role in determining which proteins get made in a cell.
+
+![Epigenetic code](http://upload.wikimedia.org/wikipedia/commons/d/dd/Epigenetic_mechanisms.jpg)
   
