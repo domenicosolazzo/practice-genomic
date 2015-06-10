@@ -39,4 +39,3 @@
 - Only the mother's or the father's gene copy is switched on regardless of the child's gender. 
 - The genes are chemically marked, or **imprinted**, during the process that generates eggs and sperm.
 - The embryo that emerges from the joining of egg and sperm can tell whether a gene copy came from Mom or Dad, so it knows which copy of the gene to shut off.
-- 
