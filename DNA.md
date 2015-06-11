@@ -57,3 +57,17 @@
       - telomerase rebuilds the telomere
       - resets the cell's molecular clock
 - The enzyme might play important roles in cancer and aging
+
+# Mitochondrial DNA
+- There is a spacial DNA
+- It is inside the **Mitochondrion**
+     - It produces the energy-rich molecule adenosine triphosphate, or **ATP**
+- Mitochondrial DNA makes up less than 1 percent of the total DNA
+- The mitochondrial genome is very small
+- It containing only about three dozen genes. 
+- These encode a few of the proteins that are in the mitochondrion, plus a set of ribosomal RNAs used for synthesizing proteins for the organelle.
+- Mitochondria need many more proteins
+- Most of these are encoded by genes in the nucleus. 
+- The energy-producing capabilities of human mitochondri depend on coordinated teamwork among hundreds of genes in two cellular neighborhoods: the nucleus and the mitochondrion.
+- Mitochondrial DNA gets transcribed and the RNA is translated by enzymes that are very different from those that perform this job for genes in our chromosomes.
+- We get all of our mitochondrial DNA from our mothers
