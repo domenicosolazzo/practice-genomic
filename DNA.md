@@ -40,7 +40,20 @@
 - The genes are chemically marked, or **imprinted**, during the process that generates eggs and sperm.
 - The embryo that emerges from the joining of egg and sperm can tell whether a gene copy came from Mom or Dad, so it knows which copy of the gene to shut off.
 
-#### Telomeres
+#### Starting at the End
 - Some DNA sequences are different: They don't encode RNAs or proteins. 
-- **Introns* are in this category
-
+     - **Introns* are in this category
+- **Telomeres** are also in this category.
+- They are the ends of chromosomes
+- Without telomeres, chromosomes stick to each other and cause cells to undergo harmful changes like dividing abnormally.
+- The telomeres of almost all organisms have repeated sequences of DNA with lots of Ts and Gs.
+- The number of telomere repeats varies enormously, not just from organism to organism but in different cells of the same organism and even within a single cell over time.
+- The cell has an enzyme that copies of the repeated sequence to the telomeres of some but not all chromosomes.
+- The telomerase enzyme consists of a protein and an RNA component, which the enzyme uses as a template for copying the repeated DNA sequence.
+-  As cells divide again and again, their telomeres get shorter.
+-  Most normal cells stop dividing when their telomeres wear down to a certain point, and eventually the cells die. 
+-  Telomerase can counteract the shortening by: 
+      - adding DNA to telomeres
+      - telomerase rebuilds the telomere
+      - resets the cell's molecular clock
+- The enzyme might play important roles in cancer and aging
